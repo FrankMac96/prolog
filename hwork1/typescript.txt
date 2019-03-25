@@ -1,0 +1,30 @@
+Script started on Wed 06 Mar 2019 01:57:15 PM EST
+]0;bigmactastic@bigmactastic-VirtualBox: ~/prolog[01;32mbigmactastic@bigmactastic-VirtualBox[00m:[01;34m~/prolog[00m$ swipl -s hwork1.plcript typescript.txt[3Pwipl -s hwork1.plcript typescript.txt[3Pwipl -s hwork1.pl
+Welcome to SWI-Prolog (Multi-threaded, 64 bits, Version 7.2.3)
+Copyright (c) 1990-2015 University of Amsterdam, VU Amsterdam
+SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software,
+and you are welcome to redistribute it under certain conditions.
+Please visit http://www.swi-prolog.org for details.
+
+For help, use ?- help(Topic). or ?- apropos(Word).
+
+?- [hom[K[Kwork1].
+[1mtrue.[0m
+
+?- [hwork1].[K[K[K[K[K[K[K[K[Kgrandmother(X,frank([K)[C[C[C[C[C[C[C[C[C.
+X = lee2 [1m;[0m
+X = lee [1m;[0m
+[1;31mfalse.[0m
+
+?- sister(X,frank)[C[C[C[C[C[C[C[C[C.
+X = ciera [1m;[0m
+X = tasha.
+
+?- Action (h for help) ? Unknown option (h for help)
+Action (h for help) ? 
+[1]+  Stopped                 swipl -s hwork1.pl
+]0;bigmactastic@bigmactastic-VirtualBox: ~/prolog[01;32mbigmactastic@bigmactastic-VirtualBox[00m:[01;34m~/prolog[00m$ exit
+There are stopped jobs.
+]0;bigmactastic@bigmactastic-VirtualBox: ~/prolog[01;32mbigmactastic@bigmactastic-VirtualBox[00m:[01;34m~/prolog[00m$ exit
+
+Script done on Wed 06 Mar 2019 01:58:15 PM EST
